@@ -1,8 +1,0 @@
-dataset,n_rows,n_valid_preds,avg_char_len,median_char_len,avg_token_len,median_token_len,neg_rate,pos_rate
-amazon_polarity,600,600,409.2,365.0,74.6,67.0,0.5,0.5
-imdb,600,600,1314.2,962.5,231.8,172.0,0.5,0.5
-naijasenti_pcm,600,564,94.2,78.0,19.9,17.0,0.5,0.5
-naijasenti_yor,600,540,87.5,84.0,19.6,18.0,0.5,0.5
-nollysenti_pcm,500,473,144.2,109.0,27.6,22.0,0.5,0.5
-nollysenti_yor,500,380,149.3,120.0,29.9,24.0,0.5,0.5
-tweet_eval,600,600,93.1,99.0,15.2,15.0,0.5,0.5
