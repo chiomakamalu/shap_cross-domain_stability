@@ -1,0 +1,8 @@
+dataset,n_eval,accuracy,accuracy_ci_lower,accuracy_ci_upper,macro_f1,macro_f1_ci_lower,macro_f1_ci_upper
+amazon_polarity,600,0.8617,0.8333,0.8883,0.8613,0.8332,0.8879
+imdb,600,0.87,0.8417,0.8967,0.8697,0.8412,0.8956
+naijasenti_pcm,564,0.8245,0.7943,0.8529,0.8227,0.7913,0.852
+naijasenti_yor,540,0.8963,0.8704,0.9204,0.8957,0.868,0.9199
+nollysenti_pcm,473,0.7505,0.7145,0.7907,0.7505,0.7136,0.7905
+nollysenti_yor,380,0.7158,0.6684,0.7605,0.6866,0.634,0.7318
+tweet_eval,600,0.8,0.7683,0.83,0.7969,0.7644,0.8274
